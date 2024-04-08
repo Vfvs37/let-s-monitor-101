@@ -25,3 +25,19 @@ The second task is meant to serve as practice and will have you, in a different 
 ****************************************************************************************************************************
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[monitoring 101  research questions-answers.pdf](https://github.com/Vfvs37/let-s-monitor-101/files/14905455/monitoring.101.research.questions-answers.pdf)
