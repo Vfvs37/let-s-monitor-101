@@ -25,11 +25,68 @@ The second task is meant to serve as practice and will have you, in a different 
 ****************************************************************************************************************************
 
 
+**How to writing a report on the system you manage**
+> i will put the steps to do it and show my work as an exemple for each point.
 
 
 
 
+For the second part of the challenge, writing a report on the system you manage, here are some steps you can follow to organize your report:
 
+
+1. Introduction:
+   - Briefly introduce the system you manage.
+   - State the purpose of the report and what you will cover.
+
+
+
+
+2. System Description:
+   - Describe the system's features, such as hardware, operating system, installed services, etc.
+   - Provide an overview of the environment in which the system is used.
+
+
+
+3. System Configuration:
+   - Detail the software and hardware configuration of the system.
+   - Mention installed software, versions used, and any specific configurations.
+
+
+
+4. Security:
+   - Explain the security measures in place on the system.
+   - Mention firewall strategies, access permissions, security audits, etc.
+
+
+
+5. Monitoring:
+   - Describe the monitoring tools and techniques used to monitor the system.
+   - Explain what is monitored, how it is monitored, and actions taken in case of issues.
+
+
+
+6. Performance:
+   - Provide information on the system's performance.
+   - Include data such as CPU, memory, disk usage, etc.
+
+
+
+7. Maintenance:
+   - Describe regular maintenance procedures performed on the system.
+   - Mention software updates, backups, cleaning tasks, etc.
+
+
+
+8. Conclusion:
+   - Summarize the key points of the report.
+   - Provide recommendations for improvement or future management of the system.
+
+
+
+9. Appendices (if applicable):
+   - Include any relevant additional information, such as screenshots, scripts, monitoring reports, etc.
+
+Once you have gathered all the necessary information, organize it logically and write your report following the above structure. Make sure to be clear, concise, and accurate in your writing.
 
 
 
