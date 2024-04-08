@@ -1,6 +1,6 @@
 # let-s-monitor-101
 
-***Solo challenge while Becode's boodcamp
+***Solo challenge while Becode's boodcamp***
 
 > I'll let two Words doc as an attachement, the first one with a questions/answer for the first part (+ definitions for some notions), the other as a report of the second part.
 
